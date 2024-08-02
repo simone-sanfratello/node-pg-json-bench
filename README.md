@@ -1,3 +1,7 @@
+
+## Results
+
+```txt
 simone@workstation:~/code/pg-json-node-performance$ node index.js 
 Running benchmarks with 1000 iterations...
 
@@ -46,3 +50,4 @@ Select Benchmarks:
 Text: 5.478713444 seconds
 JSON: 5.552235794 seconds
 JSONB: 6.157957687 seconds
+```
